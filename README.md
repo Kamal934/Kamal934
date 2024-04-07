@@ -28,9 +28,9 @@ I'm a passionate **Machine Learning Engineer** and **Data Scientist** based in P
 
 ## Get in Touch 📬
 
-- 📧 Email: [your_email@example.com](mailto:your_email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/your_profile](https://www.linkedin.com/in/your_profile)
-- 🌐 Website: [your_website.com](https://www.your_website.com)
+- 📧 Email: [your_email@example.com](kmljit0@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/your_profile](www.linkedin.com/in/kamal934)
+
 
 ## My Perspective 🌟
 
