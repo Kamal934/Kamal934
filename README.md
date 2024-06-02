@@ -10,7 +10,7 @@ I'm a passionate **Machine Learning Engineer** and **Data Scientist** based in P
 
 ## Kaggle Expertise 🏆
 
-- Proud **Kaggle Expert** with 20% expertise in competitions and knowledge sharing.
+- Proud **Kaggle Expert** with 26% expertise in competitions and knowledge sharing.
 - Active participant in the Kaggle community, contributing high-quality solutions and insights.
 
 ## Get in Touch 📬
