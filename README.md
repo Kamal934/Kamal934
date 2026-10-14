@@ -24,7 +24,6 @@
 + Shipped: AP Exception Handling Agent — production B2B agent for AP exception workflows
 + Shipped: Medical Coding Suggestion Agent + Modifier Suggestion Agent Engine — Retinex Healthcare EHR
 + Building: Incident Root-Cause Copilot — multi-agent AIOps system (3-skill chain, confidence-scoring orchestrator, ~30 endpoints, Docker)
-- Archived: EnvX — environment config manager SaaS
 ```
 
 <details>
