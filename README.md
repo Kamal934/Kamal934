@@ -1,55 +1,26 @@
-# Kamaljit Singh
+### Hi, I'm Kamaljit Singh (Kml) 👋
 
-> AI Engineer — I build multi-agent systems and ship them into production, not just demos.
+Software Developer at **Auxiliobits** building AI-powered and automated solutions: AI agents, RPA workflows, and backend services for SaaS products.
 
-**Auxiliobits** · Backend + AI/ML · Mohali, Punjab, India
+🌐 **Portfolio:** [kamaljit-singh.pages.dev](https://kamaljit-singh.pages.dev)
 
----
+#### What I work on
+- 🤖 **AI agents & LLM apps** with Python, FastAPI, LangGraph, and Azure AI Search
+- ⚙️ **Intelligent automation** with UiPath and Power Automate
+- 🧩 **Backend & APIs** with FastAPI, Node.js, PostgreSQL, and Cosmos DB
+- 🖥️ **Full-stack products** with React, TypeScript, Docker, and Azure
 
-### Stack
+#### Featured projects
+| Project | What it is |
+| --- | --- |
+| [PixelProof](https://github.com/Kamal934/PixelProof/tree/master) | Flutter app that detects image forgery using a custom-trained model behind a FastAPI backend on Hugging Face |
+| [Incident Root-Cause Copilot](https://kamaljit-singh.pages.dev/projects/incident-root-cause-copilot) | Multi-agent AIOps system that correlates anomalies, deployments, and past incidents |
+| [AP Exception Handling Agent](https://kamaljit-singh.pages.dev/projects/ap-exception-handling-agent) | AI-assisted Accounts Payable exception handling (company project) |
 
-| Component | Spec |
-|---|---|
-| Orchestration | multi-agent pipelines, confidence-scoring routing |
-| Backend | Python, FastAPI, REST API design |
-| Applied ML | anomaly detection, retrieval / precedent matching |
-| Frontend | React, Vite |
-| Infra | Docker, multi-tenant architecture, OAuth |
+#### Recognition
+- 🏆 Top 100 Global Finalist, Google Solution Challenge 2024 (team EchoFetch)
+- 🥇 Best ML Model, GDG Jalandhar Hackathon 2024
+- ✅ [UiPath Certified Professional Automation Developer](https://credentials.uipath.com/ce0eb9f6-6966-4ec6-bab8-dbc64ce8d3c2)
 
----
-
-### Log
-
-```diff
-+ Shipped: AP Exception Handling Agent — production B2B agent for AP exception workflows
-+ Shipped: Medical Coding Suggestion Agent + Modifier Suggestion Agent Engine — Retinex Healthcare EHR
-+ Building: Incident Root-Cause Copilot — multi-agent AIOps system (3-skill chain, confidence-scoring orchestrator, ~30 endpoints, Docker)
-```
-
-<details>
-<summary><strong>Full project log</strong></summary>
-
-<br>
-
-**Incident Root-Cause Copilot**
-Multi-agent AIOps system for SRE/ops teams. Anomaly detector → change correlator → precedent matcher, chained through a confidence-scoring orchestrator. MVP: ~30 FastAPI endpoints, React/Vite enterprise frontend, OAuth, multi-tenant workspaces, Loki/Datadog log integration, Docker deployment. Launched via the Snowflake CoCo CLI hackathon.
-
-**AP Exception Handling Agent** — *Production, Auxiliobits*
-B2B AI agent that identifies and resolves exceptions in Accounts Payable workflows for finance operations teams.
-
-**Retinex Healthcare EHR**
-Medical Coding Suggestion Agent and Modifier Suggestion Agent Engine — AI agents that recommend accurate medical codes and billing modifiers inside clinical workflows.
-
-</details>
-
----
-
-### Credentials
-
-- 🏆 Google Solution Challenge — Top 100, 2024
-- 🎓 UiPath Certification, 2025
-- 🎓 B.Tech, Computer Science Engineering — Punjabi University, Patiala (2021–2025)
-
----
-
-📧 [kmljit0786@gmail.com](mailto:kmljit0786@gmail.com) · 💼 [linkedin.com/in/kamal734](https://linkedin.com/in/Kamal934)
+#### Get in touch
+📫 [kmljit0786@gmail.com](mailto:kmljit0786@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/kamal934) · 📍 Mohali, Punjab
